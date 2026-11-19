@@ -1,0 +1,2 @@
+CS-510 Project Two sample file.
+This file is used to demonstrate file attributes, file size, and disk-resource reporting.
